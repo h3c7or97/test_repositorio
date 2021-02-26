@@ -7,4 +7,5 @@ frame_data = {
     }
 
 df = pd.DataFrame(frame_data)
+print("Esto es un DataFrame")
 print(df)
